@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 As a first-year data engineering student, I have a strong desire to use technology to address challenging issues. I am eager to learn how to design and develop scalable systems to process and analyse big volumes of data since I think that data is the foundation of decision-making.
 
+### My GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=akim730)
-### Programming Languages I Have Learned
 
-- C
-- C++
+### Programming Languages I Have Learned
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akim730&layout=compact)](https://github.com/akim730/github-readme-stats)
