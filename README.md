@@ -17,4 +17,5 @@ As a first-year data engineering student, I have a strong desire to use technolo
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=akim730)
 
 ### Programming Languages I Have Learned
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akim730&layout=compact)](https://github.com/akim730/github-readme-stats)
+-C++
+-C
