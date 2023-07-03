@@ -1,6 +1,9 @@
 ### Welcome Guys!!! 👋:recycle:
 
 Here are some ideas to get you started:
+<div align="left">
+  <img src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" alt="image" width="400" height="300" style="border: 5px solid purple;">
+</div>
 
 - 🔭 I’m currently studying at Universiti Teknologi Malaysia (UTM)...
 - 🌱 I’m currently learning Computer Science major in Data Engineering...
@@ -17,3 +20,7 @@ I am eager to learn how to design and develop scalable systems to process and an
 ### Programming Languages I Have Learned
 - C++
 - C
+- HTML
+- Asm
+- R Programming
+
