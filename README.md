@@ -1,4 +1,4 @@
-### Welcome Guys!!! 👋:recycle:
+### Welcome Guys!!! 👋:Life is cycle:
 
 Here are some ideas to get you started:
 <div align="left">
