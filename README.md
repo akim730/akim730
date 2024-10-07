@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Just call me akim :bike:...
 - ⚡ Fun fact: "_Data is often referred to as the "new oil" because it is a valuable resource that can be mined, refined, and used to power businesses and drive innovation...._"
 
-As a first-year data engineering student, I have a strong desire to use technology to address challenging issues.
+As a 3rd-year data engineering student, I have a strong desire to use technology to address challenging issues.
 I am eager to learn how to design and develop scalable systems to process and analyse big volumes of data since I think that data is the foundation of decision-making.
 
 ### My GitHub Stats
@@ -21,6 +21,8 @@ I am eager to learn how to design and develop scalable systems to process and an
 - C++
 - C
 - HTML
-- Asm
 - R Programming
+- Java
+- JavaScript
+- Python
 
