@@ -20,9 +20,9 @@ I am eager to learn how to design and develop scalable systems to process and an
 ### Programming Languages I Have Learned
 - C++
 - C
-- HTML
+- HTML/PHP/JavaScript
 - R Programming
 - Java
-- JavaScript
 - Python
+- SQL for Database
 
